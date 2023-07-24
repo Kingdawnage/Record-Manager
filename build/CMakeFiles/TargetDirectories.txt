@@ -1,3 +1,0 @@
-C:/Users/katch/Documents/.Coding/C++/Record Manager/build/CMakeFiles/Record_Manager.dir
-C:/Users/katch/Documents/.Coding/C++/Record Manager/build/CMakeFiles/edit_cache.dir
-C:/Users/katch/Documents/.Coding/C++/Record Manager/build/CMakeFiles/rebuild_cache.dir
