@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/katch/Documents/.Coding/C++/Record Manager/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Record_Manager.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Record_Manager.dir\\src\\program.cpp.obj -c \"C:\\Users\\katch\\Documents\\.Coding\\C++\\Record Manager\\src\\program.cpp\"",
+  "file": "C:/Users/katch/Documents/.Coding/C++/Record Manager/src/program.cpp",
+  "output": "CMakeFiles/Record_Manager.dir/src/program.cpp.obj"
+}
+]
